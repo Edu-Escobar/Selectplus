@@ -1,5 +1,5 @@
 # Selectplus
-Prepare to college entrance exams with this app
+Prepare to college entrance exams with this app!
 
 This repository contains the Selectplus website (Bootstrap) and app (ProyectoFinal).
 In order to open the app, execute the installer placed in ProyectoFinal folder.
